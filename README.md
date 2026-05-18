@@ -1,3 +1,11 @@
+## Dashboard Preview
+
+![Adventures-Work-Analysis-Dashboard 1](Screenshot-2026-03-30-150136.png)
+
+![Adventures-Work-AnalysisDashboard 2](Screenshot-2026-03-30-153559.png)
+
+![Adventures-Work-AnalysisDashboard 3](Screenshot-2026-03-30-153622.png)
+
 ## Project Overview
 An end-to-end Power BI dashboard analyzing sales performance, 
 customer behaviour and product returns for Adventure Works Bike Shop 
